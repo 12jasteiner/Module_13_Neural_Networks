@@ -1,3 +1,3 @@
 # Module_13_Neural_Networks
 
-## Binary classification model (funding for successful vs unsuccessful startups) for venture capital firm created using neural networks. Original model created  
+## Binary classification model (funding for successful vs unsuccessful startups) for venture capital firm created using neural networks. Original model created, trained, and tested. Two alternative models created, but were likely overtrained. The alternative models designed to be more optimized compared to the original model resulted in similar accuracies despite numerous changes. 
